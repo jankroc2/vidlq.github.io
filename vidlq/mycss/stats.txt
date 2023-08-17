@@ -1,0 +1,5 @@
+127.0.0.1|2022-12-22 15:47:01|Refer is empty|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.832 (beta) Yowser/2.5 Safari/537.36|Linux|Computer
+127.0.0.1|2022-12-22 17:30:56|Refer is empty|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.832 (beta) Yowser/2.5 Safari/537.36|Linux|Computer
+127.0.0.1|2022-12-22 17:31:22|Refer is empty|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.832 (beta) Yowser/2.5 Safari/537.36|Linux|Computer
+127.0.0.1|2022-12-22 17:35:29|Refer is empty|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.832 (beta) Yowser/2.5 Safari/537.36|Linux|Computer
+127.0.0.1|2022-12-22 17:36:08|Refer is empty|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.832 (beta) Yowser/2.5 Safari/537.36|Linux|Computer

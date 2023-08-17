@@ -1,0 +1,7 @@
+<?php
+
+$stats = file_get_contents('stats.txt');
+$statsList = explode("\n", $stats);
+
+var_dump($statsList);
+
